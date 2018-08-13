@@ -1,0 +1,14 @@
+{
+  "name": "reducer-unit-test",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "redux": "^4.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "concurrently": "^3.6.1",
+    "json-server": "^0.14.0",
+    "mocha": "^5.2.0"
+  }
+}
